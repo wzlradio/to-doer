@@ -1,1 +1,1 @@
-var main = function () { "use strict"; window.alert ("hello world!"); }; $(document).ready(main);
+var main = function () { "use strict"; window.alert ("get organized"); }; $(document).ready(main);
